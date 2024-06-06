@@ -1,0 +1,44 @@
+[
+  {
+    "objectID": "resume.html#education",
+    "href": "resume.html#education",
+    "title": "Resume",
+    "section": "Education",
+    "text": "Education\n\nHarvey Mudd College, B.S. Engineering, 2026"
+  },
+  {
+    "objectID": "resume.html#work-experience",
+    "href": "resume.html#work-experience",
+    "title": "Resume",
+    "section": "Work Experience",
+    "text": "Work Experience\n\nSubheading 1\n\n\nSubheading 2"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Audrey Gruian",
+    "section": "",
+    "text": "Learn more about my projects here.\nThis is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+  },
+  {
+    "objectID": "index.html#about-me",
+    "href": "index.html#about-me",
+    "title": "Audrey Gruian",
+    "section": "",
+    "text": "Learn more about my projects here.\nThis is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "test test test test"
+  },
+  {
+    "objectID": "projects.html#project-1",
+    "href": "projects.html#project-1",
+    "title": "Projects",
+    "section": "",
+    "text": "test test test test"
+  }
+]
